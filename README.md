@@ -174,4 +174,4 @@ e implemente o método `usar()`.
 
 ## 👤 Autor
 
-Feito por **SEU NOME**: [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+Feito por **VINICIUS FURTADO**: [LinkedIn](https://www.linkedin.com/in/vifurtado/) · [GitHub](https://github.com/vnniwzx)
